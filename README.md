@@ -13,10 +13,9 @@
 #### PostcardPreWork directory
 
     PostcardPreWork/
-            Postcard/
-                styles.css
-                index.html
-                README.md
+            styles.css
+            index.html
+            README.md
 
 ```html
 
